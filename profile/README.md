@@ -7,4 +7,4 @@ Metronome offers the full suite of services necessary to get customers from toda
 
 ### Follow Us On:
 
-![linkedin-logo](https://github.com/user-attachments/assets/0f1fd475-f860-4c04-84ed-ece8ef9bae71) - [Link](https://www.linkedin.com/company/metronome-llc/)
+[![linkedin-logo](https://github.com/user-attachments/assets/0f1fd475-f860-4c04-84ed-ece8ef9bae71)](https://www.linkedin.com/company/metronome-llc/)
